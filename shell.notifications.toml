@@ -1,0 +1,9 @@
+# Loca Deserta Dark — white outline on notification cards.
+
+background       = "#121518"
+background-alpha = 1.0
+text             = "#d8d4cb"
+border           = "#ffffff"
+border-alpha     = 1.0
+border-width     = 2
+countdown        = "#5ec3f2"

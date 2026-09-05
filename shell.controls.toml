@@ -1,0 +1,29 @@
+# Loca Deserta Dark — white outlines on all control chrome
+# (buttons, dropdowns, tab strips, cursor rows).
+
+normal-color        = "#d8d4cb"
+normal-fill-alpha   = 0.04
+normal-border       = "#ffffff"
+normal-border-width = 1
+normal-border-alpha = 1.0
+
+hover-cursor-color        = "#d8d4cb"
+hover-cursor-fill-alpha   = 0.08
+hover-cursor-border       = "#ffffff"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 1.0
+
+focus-color        = "#d8d4cb"
+focus-fill-alpha   = 0.08
+focus-border       = "#ffffff"
+focus-border-width = 1
+focus-border-alpha = 1.0
+
+selected-color        = "#d8d4cb"
+selected-fill-alpha   = 0.18
+selected-border       = "#ffffff"
+selected-border-width = 1
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.22
+selection-fill-alpha = 0.35

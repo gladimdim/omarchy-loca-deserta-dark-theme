@@ -1,0 +1,15 @@
+# Loca Deserta Dark — white outline on the lock screen
+# password field. The wrong-password state stays red.
+
+background       = "#121518"
+background-alpha = 0.8
+text             = "#d8d4cb"
+placeholder      = "#95938e"
+text-error       = "#e2645c"
+border           = "#ffffff"
+border-active    = "#ffffff"
+border-error     = "#e2645c"
+border-alpha     = 1.0
+border-width     = 2
+selection        = "#5ec3f2"
+selection-alpha  = 0.45

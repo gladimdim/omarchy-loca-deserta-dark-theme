@@ -1,0 +1,16 @@
+# Loca Deserta Dark — white outline on menu cards
+# (clipboard, emojis and menus inherit these tokens).
+
+background                = "#121518"
+background-alpha          = 1.0
+text                      = "#d8d4cb"
+border                    = "#ffffff"
+border-alpha              = 1.0
+border-width              = 2
+scrim                     = "#121518"
+scrim-alpha               = 0.5
+selected-background       = "#d8d4cb"
+selected-background-alpha = 0.08
+selected-text             = "#5ec3f2"
+selected-border           = "#ffffff"
+selected-border-alpha     = 1.0

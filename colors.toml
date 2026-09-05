@@ -1,0 +1,38 @@
+# Loca Deserta Dark — far-future Hetmanate.
+# Void charcoal background, hull-white foreground, plasma-blue accent,
+# brass/engine amber, laser red. Derived from the universe illustrations.
+mode = "dark"
+
+accent = "#5ec3f2"
+selection = "#26313d"
+muted = "#5b6470"
+
+background = "#121518"
+dark_background = "#0d0f12"
+darker_background = "#08090b"
+lighter_background = "#1d2227"
+
+foreground = "#d8d4cb"
+dark_foreground = "#7c8592"
+light_foreground = "#c3bfb6"
+bright_foreground = "#f1eee7"
+
+red = "#e2645c"
+yellow = "#e6c07b"
+orange = "#e0894a"
+green = "#9dcf8f"
+cyan = "#62d0dc"
+blue = "#7aa6e8"
+magenta = "#b89ce0"
+brown = "#8a6a52"
+
+bright_red = "#f27c74"
+bright_yellow = "#f3d497"
+bright_green = "#b5e0a6"
+bright_cyan = "#85e2ec"
+bright_blue = "#95bdf3"
+bright_magenta = "#cdb4ee"
+
+# Plasma blue to brass gold window border.
+hyprland_active_border = "rgba(5ec3f2ee) rgba(e6c07bee) 45deg"
+hyprland_inactive_border = "rgba(26313daa)"
