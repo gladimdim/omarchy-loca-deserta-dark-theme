@@ -36,7 +36,7 @@ Active window borders run a 45° gradient from plasma blue to brass gold.
 
 All wallpapers are DARYA-class ship art from the universe, some blended:
 
-1. `01-darya-core` — the warp core ring, untouched
+1. `01-darya-core` — the warp core ring with blended title telemetry
 2. `02-darya-warp-gate` — a DARYA passing through its own enlarged core ring
 3. `03-darya-sunburn` — engines lit against a star, untouched
 4. `04-darya-blueprint` — technical drawing tinted plasma blue
