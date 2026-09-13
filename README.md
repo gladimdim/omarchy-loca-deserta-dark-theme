@@ -6,7 +6,7 @@ omarchy theme set "Loca Deserta Dark"
 ```
 
 An [Omarchy](https://omarchy.org) theme for the far-future **Loca Deserta** universe:
-the Hetmanate Federation, its DARYA-class warp carriers, and the void between stars.
+the Hetmanate Federation, its heavy assault Terminators, and the void between stars.
 
 ![Preview](preview.png)
 
@@ -14,37 +14,30 @@ Companion theme: [Loca Deserta Light](https://github.com/gladimdim/omarchy-loca-
 
 ## Palette
 
-Derived from the universe illustrations: white hulls on black space with plasma,
-engine, and laser glows.
+Derived from the Terminator universe illustrations: carbon void space, battle-plate steel,
+lunar regolith, and starlight corona highlights.
 
-| Role       | Hex       | Source                           |
-|------------|-----------|----------------------------------|
-| background | `#121518` | void, cold charcoal              |
-| foreground | `#d8d4cb` | hull white                       |
-| accent     | `#5ec3f2` | plasma core of the DARYA         |
-| yellow     | `#e6c07b` | brass rings and tridents         |
-| orange     | `#e0894a` | engine burn                      |
-| red        | `#e2645c` | SHYLO laser                      |
-| green      | `#9dcf8f` | HUD phosphor                     |
-| cyan       | `#62d0dc` | plasma                           |
-| blue       | `#7aa6e8` | warp ring                        |
-| magenta    | `#b89ce0` | nebula violet                    |
+| Role       | Hex       | Source                                   |
+|------------|-----------|------------------------------------------|
+| background | `#10100f` | carbon void, deep lunar shadow           |
+| foreground | `#d1cdc9` | Terminator battle-plate, lunar regolith  |
+| accent     | `#ece8e5` | starlight corona, pinpoint glare         |
+| yellow     | `#dbb471` | weathered brass, hazard markings         |
+| orange     | `#d47844` | muzzle flare, engine burn                |
+| red        | `#d95750` | targeting laser, combat warning          |
+| green      | `#88ad7c` | tactical HUD phosphor, night optics      |
+| cyan       | `#5ca3ad` | plasma bolt                              |
+| blue       | `#6b93b8` | cold void, tempered steel                |
+| magenta    | `#a688b5` | sensor bloom, ion wake                   |
 
-Active window borders run a 45° gradient from plasma blue to brass gold.
+Active window borders run a 45° gradient from starlight corona white to weathered titanium plate.
 
 ## Backgrounds
 
-All wallpapers are DARYA-class ship art from the universe, some blended:
+Hetmanate Terminator assault troopers on lunar / airless asteroid combat operations:
 
-1. `01-darya-core` — the warp core ring with blended title telemetry
-2. `02-darya-warp-gate` — a DARYA passing through its own enlarged core ring
-3. `03-darya-sunburn` — engines lit against a star, untouched
-4. `04-darya-blueprint` — technical drawing tinted plasma blue
-5. `05-darya-warp-run` — the warp run with a faint blueprint ghost
-6. `06-darya-triptych` — three views with feathered seams
-7. `07-darya-sun-crossfade` — two passes in front of the star, crossfaded
-8. `08-darya-blueprint-dsrp7` — DSRP-7 drawing tinted plasma blue
-9. `09-darya-blueprint-core` — blueprint lines over the dimmed core
+1. `Background.webp` — Terminator infantry rifleman in heavy space combat suit against an eclipse
+2. `Terminator-2.webp` — Terminator mounted on cybernetic combat steed
 
 Cycle with `omarchy theme bg next`.
 

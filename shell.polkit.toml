@@ -1,14 +1,14 @@
 # Loca Deserta Dark — white outline on the polkit
 # authentication prompt. The wrong-password state stays red.
 
-background       = "#121518"
+background       = "#10100f"
 background-alpha = 1.0
-text             = "#d8d4cb"
-text-error       = "#e2645c"
+text             = "#d1cdc9"
+text-error       = "#d95750"
 border           = "#ffffff"
-border-error     = "#e2645c"
+border-error     = "#d95750"
 border-alpha     = 1.0
 border-width     = 2
-scrim            = "#121518"
+scrim            = "#10100f"
 scrim-alpha      = 0.5
-accent           = "#5ec3f2"
+accent           = "#ece8e5"

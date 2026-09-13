@@ -1,9 +1,9 @@
 # Loca Deserta Dark — white outlines on image-picker
 # slices. Selected stays solid, unselected stays softened.
 
-scrim                   = "#121518"
+scrim                   = "#10100f"
 scrim-alpha             = 0.5
-text                    = "#d8d4cb"
+text                    = "#d1cdc9"
 selected-border         = "#ffffff"
 selected-border-alpha   = 1.0
 unselected-border       = "#ffffff"

@@ -1,38 +1,38 @@
 # Loca Deserta Dark — far-future Hetmanate.
-# Void charcoal background, hull-white foreground, plasma-blue accent,
-# brass/engine amber, laser red. Derived from the universe illustrations.
+# Carbon void background, battle-plate steel, lunar regolith,
+# starlight corona highlights. Derived from Terminator illustrations.
 mode = "dark"
 
-accent = "#5ec3f2"
-selection = "#26313d"
-muted = "#5b6470"
+accent = "#ece8e5"
+selection = "#2e2d2b"
+muted = "#524f4c"
 
-background = "#121518"
-dark_background = "#0d0f12"
-darker_background = "#08090b"
-lighter_background = "#1d2227"
+background = "#10100f"
+dark_background = "#0c0c0b"
+darker_background = "#080807"
+lighter_background = "#1c1b1a"
 
-foreground = "#d8d4cb"
-dark_foreground = "#7c8592"
-light_foreground = "#c3bfb6"
-bright_foreground = "#f1eee7"
+foreground = "#d1cdc9"
+dark_foreground = "#736f6b"
+light_foreground = "#b2aeaa"
+bright_foreground = "#ece8e5"
 
-red = "#e2645c"
-yellow = "#e6c07b"
-orange = "#e0894a"
-green = "#9dcf8f"
-cyan = "#62d0dc"
-blue = "#7aa6e8"
-magenta = "#b89ce0"
-brown = "#8a6a52"
+red = "#d95750"
+yellow = "#dbb471"
+orange = "#d47844"
+green = "#88ad7c"
+cyan = "#5ca3ad"
+blue = "#6b93b8"
+magenta = "#a688b5"
+brown = "#7a6552"
 
-bright_red = "#f27c74"
-bright_yellow = "#f3d497"
-bright_green = "#b5e0a6"
-bright_cyan = "#85e2ec"
-bright_blue = "#95bdf3"
-bright_magenta = "#cdb4ee"
+bright_red = "#ea6861"
+bright_yellow = "#e8c484"
+bright_green = "#9ec292"
+bright_cyan = "#72bac5"
+bright_blue = "#84acd2"
+bright_magenta = "#ba9dca"
 
-# Plasma blue to brass gold window border.
-hyprland_active_border = "rgba(5ec3f2ee) rgba(e6c07bee) 45deg"
-hyprland_inactive_border = "rgba(26313daa)"
+# Starlight corona to weathered titanium battle-plate window border.
+hyprland_active_border = "rgba(ece8e5ee) rgba(736f6bee) 45deg"
+hyprland_inactive_border = "rgba(2e2d2baa)"
