@@ -38,6 +38,7 @@ Hetmanate Terminator assault troopers on lunar / airless asteroid combat operati
 
 1. `Background.webp` — Terminator infantry rifleman in heavy space combat suit against an eclipse
 2. `Terminator-2.webp` — Terminator mounted on cybernetic combat steed
+3. `Terminators-3.webp` — Terminator cavalry squadron charging across lunar plains
 
 Cycle with `omarchy theme bg next`.
 
