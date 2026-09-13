@@ -36,12 +36,14 @@ Active window borders run a 45° gradient from starlight corona white to weather
 
 ## Backgrounds
 
-Hetmanate Terminator assault troopers on lunar / airless asteroid combat operations:
+Hetmanate Terminator assault troopers on lunar / airless asteroid combat operations, each featuring universe lore quotes framed in tactical sci-fi HUD panels:
 
 1. `Background.webp` — Terminator infantry rifleman Danylo Morozenko with Kodak Orbital Bastion quote
-2. `Terminator-2.webp` — Terminator mounted on cybernetic combat steed
-3. `Terminators-3.webp` — Terminator cavalry squadron charging across lunar plains
-4. `Trio-Terminator.webp` — Trio of heavy Cossack Terminator cyber-cavalry with bunchuk standard under an eclipse
+2. `Terminator-2.webp` — Terminator mounted Sotnyk Omelian Nechypura with Perekop Frontier quote
+3. `Terminators-3.webp` — Terminator cavalry squadron charging across lunar plains with Kodak Orbital Bastion quote
+4. `Terminators-4.webp` — Trio of heavy Cossack Terminator cyber-cavalry galloping with Taras Honta quote
+5. `Terminator-5.webp` — Heavy Terminator cyber-lancer charging into the fray with Lukash Zhuravel quote
+6. `Trio-Terminator.webp` — Trio of heavy Cossack Terminator cyber-cavalry with Otaman Petro Perebyinis quote
 
 Cycle with `omarchy theme bg next`.
 
