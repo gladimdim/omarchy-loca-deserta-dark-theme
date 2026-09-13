@@ -36,7 +36,7 @@ Active window borders run a 45° gradient from starlight corona white to weather
 
 Hetmanate Terminator assault troopers on lunar / airless asteroid combat operations:
 
-1. `Background.webp` — Terminator infantry rifleman in heavy space combat suit against an eclipse
+1. `Background.webp` — Terminator infantry rifleman Danylo Morozenko with Kodak Orbital Bastion quote
 2. `Terminator-2.webp` — Terminator mounted on cybernetic combat steed
 3. `Terminators-3.webp` — Terminator cavalry squadron charging across lunar plains
 4. `Trio-Terminator.webp` — Trio of heavy Cossack Terminator cyber-cavalry with bunchuk standard under an eclipse
