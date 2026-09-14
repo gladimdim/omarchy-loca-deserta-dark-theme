@@ -12,11 +12,14 @@ the Hetmanate Federation, its heavy assault Terminators, and the void between st
 
 ![Preview](preview.png)
 
+The preview is the usual Omarchy 4-app collage: Neovim, btop, terminal, and Files
+tiled over the default wallpaper, with the Omarchy bar along the bottom.
+
 Companion theme: [Loca Deserta Light](https://github.com/gladimdim/omarchy-loca-deserta-light-theme).
 
 ## Palette
 
-Derived from the Terminator universe illustrations: carbon void space, battle-plate steel,
+Derived from the Terminator illustrations: carbon void, battle-plate steel,
 lunar regolith, and starlight corona highlights.
 
 | Role       | Hex       | Source                                   |
@@ -34,18 +37,34 @@ lunar regolith, and starlight corona highlights.
 
 Active window borders run a 45° gradient from starlight corona white to weathered titanium plate.
 
+Omarchy generates terminal, Neovim, btop, and the rest of the desktop from
+`colors.toml` when the theme is applied.
+
+## Shell
+
+White outlines on every Omarchy shell surface so chrome reads as starlight on
+carbon void:
+
+- launcher, menus, notifications, popups, and tooltips
+- lock screen and polkit password fields (wrong-password stays red)
+- image-picker slices and control rows (buttons, tabs, dropdowns)
+
+Icons use **Yaru-blue**.
+
 ## Backgrounds
 
-Hetmanate Terminator assault troopers on lunar / airless asteroid combat operations, each featuring universe lore quotes framed in tactical sci-fi HUD panels:
+Hetmanate Terminator assault troopers on lunar and airless-asteroid operations.
+Every wallpaper carries a pixel-font **LOCA DESERTA SCIFI** title and a
+tactical HUD plate with a universe lore quote.
 
-1. `Background.webp` — Terminator infantry rifleman Danylo Morozenko with Kodak Orbital Bastion quote
-2. `Terminator-2.webp` — Terminator mounted Sotnyk Omelian Nechypura with Perekop Frontier quote
-3. `Terminators-3.webp` — Terminator cavalry squadron charging across lunar plains with Kodak Orbital Bastion quote
-4. `Terminators-4.webp` — Trio of heavy Cossack Terminator cyber-cavalry galloping with Taras Honta quote
-5. `Terminator-5.webp` — Heavy Terminator cyber-lancer charging into the fray with Lukash Zhuravel quote
-6. `Trio-Terminator.webp` — Trio of heavy Cossack Terminator cyber-cavalry with Otaman Petro Perebyinis quote
+1. `Background.webp` — infantry rifleman Danylo Morozenko against an eclipse. *"Let their plasma melt our armor — they will never melt our spite! Hold the breach!"* Defense of the Kodak Orbital Bastion, year 318 SE.
+2. `Terminator-2.webp` — mounted Sotnyk Omelian Nechypura. *"Forward, Cossacks! Death walks ahead, but eternal glory walks with us!"* Battle for the Perekop Frontier, year 320 SE.
+3. `Terminators-3.webp` — cavalry squadron charging under a full planet. Same Kodak Orbital Bastion quote as the infantry plate.
+4. `Terminators-4.webp` — trio of heavy Cossack cyber-cavalry at a gallop. *"Do not look for the landing shuttles, brothers! We leave this rock as victors — or as cosmic dust!"* Kurinnyi Otaman Taras Honta, Third Siege of the Myriad Red Plains, year 321 SE.
+5. `Terminator-5.webp` — heavy cyber-lancer. *"They outnumber us ten to one? Excellent! Now we don't have to waste time aiming!"* Haiduk Desiatnyk Lukash Zhuravel, void skirmish at asteroid Khorol, year 320 SE.
+6. `Trio-Terminator.webp` — trio of heavy Cossack cyber-cavalry. *"If the engines fail — ram them! If the cannons burst — board them! While a single Cossack breathes, the Hetmanate never yields!"* Otaman Petro Perebyinis, fleet clash at the Capricorn Expanse, year 320 SE.
 
-Cycle with `omarchy theme bg next`.
+Cycle with `omarchy theme bg next` (or Super+Ctrl+Space).
 
 ## Credits
 
